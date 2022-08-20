@@ -26,7 +26,7 @@ cp data/${CROWDHUMAN}.data darknet/data/
 cp data/crowdhuman.names darknet/data/
 cp cfg/*.cfg darknet/cfg/
 
-if [[ ! -f darknet/yolov4.conv.137 ]]; then
+if [[ ! -f darknet/yolov4-tiny.conv.29 ]]; then
   pushd darknet > /dev/null
   echo "** Download pre-trained yolov4 weights"
   python3 -m gdown.cli https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre/yolov4-tiny.conv.29

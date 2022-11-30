@@ -35,14 +35,14 @@ get_file()
 }
 
 echo "** Download dataset files"
-# get_file https://drive.google.com/uc?id=1FMwqqW_PrB1d7Xr5P7FZk8VTaQD-fBIq CrowdHuman_train01.zip
-# get_file https://drive.google.com/uc?id=1oWUxw7MmPbcbZNeTgjXSkxN4MF5IB4xJ CrowdHuman_train02.zip
-# get_file https://drive.google.com/uc?id=1hspqqDmUFHaZBxpyz9yOjZ5jAHZuYczT CrowdHuman_train03.zip
-# get_file https://drive.google.com/uc?id=12tYcdfsgGOk4Adx3LJvCJ6JNCo7VTCOv CrowdHuman_val.zip
+# get_file https://drive.google.com/uc?id=1C-Kt9myGtQBrOziD6scQ3LW1bGEc2Fe- CrowdHuman_train01.zip
+# get_file https://drive.google.com/uc?id=1e06L03o6mABn-MWQFLYml5Q_9m-DN2dO CrowdHuman_train02.zip
+# get_file https://drive.google.com/uc?id=1--6a5tMrYha0pixCLG2f7pVTxzRlowLU CrowdHuman_train03.zip
+# get_file https://drive.google.com/uc?id=1e1J4pT_QJS5xFPhdyweh1RYL8IVkD25w CrowdHuman_val.zip
 # # test data is not needed...
 # # get_file https://drive.google.com/uc?id=1tQG3E_RrRI4wIGskorLTmDiWHH2okVvk CrowdHuman_test.zip
-# get_file https://drive.google.com/uc?id=166BlBz4NndUl26coJnscsK9wldaCiHXS annotation_train.odgt
-# get_file https://drive.google.com/uc?id=123Kijtf-lJQzlXco0eVO41pV0HAvZmX6 annotation_val.odgt
+# get_file https://drive.google.com/uc?id=1-2RFMsZSW8lnVcDJmX9vAcn-bF8AAnmN annotation_train.odgt
+# get_file https://drive.google.com/uc?id=1-5cpGvAZUyacJ957kPX0wkZ1wtTmtpNQ annotation_val.odgt
 
 
 get_file https://drive.google.com/uc?id=134QOvaatwKdy0iIeNqA_p-xkAhkV4F8Y CrowdHuman_train01.zip
